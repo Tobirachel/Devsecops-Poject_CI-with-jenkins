@@ -6,7 +6,7 @@ In this project, I created an end-to-end Production like CI-CD pipeline  while k
 #### I used Jenkins for Continuous Integration and ArgoCD for Continuous Deployment.
 
 ## Project Architecture
-![](https://github.com/praveensirvi1212/DevOps_MasterPiece-CI-with-Jenkins/blob/main/images/pipeline.png)
+![](https://github.com/Tobirachel/Devsecops-Poject_CI-with-jenkins)/blob/main/images/pipeline.png)
 ## Pipeline flow:
 1. When an event (commit) will occur in the application code GitHub repo,  the GitHub webhook will push the code to Jenkins and Jenkins will start the build.
 
